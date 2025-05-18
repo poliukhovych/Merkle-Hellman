@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+mh_knapsack
+
+# Logs
+mh_log.txt
